@@ -7,7 +7,7 @@ I'm **BeLH**, a passionate software developer with a background in Artificial In
 <div style="flex: 1; margin-right: 20px;">
 
 ### Research Interests
-<img src="https://66.media.tumblr.com/aa7c508d8f466f5b41dc429b90fca6f3/tumblr_mv4vmc5srf1s8udf8o1_500.gif" alt="Animated GIF" width="500" align="right" style="margin-left: 20px;"/>
+<img src="https://66.media.tumblr.com/aa7c508d8f466f5b41dc429b90fca6f3/tumblr_mv4vmc5srf1s8udf8o1_500.gif" alt="Animated GIF" width="300" align="right" style="margin-left: 20px;"/>
 
 - **Diffusion Models**
 - **Fake Identification**
