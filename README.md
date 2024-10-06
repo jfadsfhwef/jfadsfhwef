@@ -33,12 +33,18 @@ I have experience in a variety of programming languages and technologies, includ
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cma-png&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cma-png&layout=compact&theme=radical)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cma-png&show_icons=true&theme=radical" alt="My GitHub Stats" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cma-png&layout=compact&theme=radical" alt="Top Languages" width="350"/>
+</div>
 
 <!--
 **Cma-png/Cma-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cma-png&show_icons=true&theme=radical)
 
+<img src="https://github-readme-stats.vercel.app/api?username=Cma-png&show_icons=true&theme=radical" alt="My GitHub Stats" width="400"/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Cma-png&layout=compact&theme=radical)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
