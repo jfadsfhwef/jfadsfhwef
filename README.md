@@ -1,4 +1,39 @@
-## Hi there 👋
+Hi there 👋
+
+I’m BeLH, a dedicated software developer with a keen eye for building efficient, scalable systems. Currently pursuing my Master’s degree in Artificial Intelligence and Big Data Computing at The Hong Kong Polytechnic University, I specialize in creating high-quality software solutions that bring impactful change to users and industries.
+
+<div style="display: flex; align-items: flex-start;">
+
+
+<div style="flex: 1; margin-right: 20px;">
+
+
+Technical Interests
+
+<img src="https://66.media.tumblr.com/aa7c508d8f466f5b41dc429b90fca6f3/tumblr_mv4vmc5srf1s8udf8o1_500.gif" alt="Animated GIF" width="300" align="right" style="margin-left: 20px;"/>
+
+
+	•	Full-Stack Development
+	•	Backend Architecture
+	•	Cloud & Infrastructure (AWS, Docker)
+	•	APIs & Integrations
+
+</div>
+
+
+Languages and Technologies
+
+With experience across various programming languages and tools, here’s a glimpse into my tech stack:
+
+GitHub Stats
+
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Cma-png&show_icons=true&theme=radical" alt="My GitHub Stats" width="320"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cma-png&layout=compact&theme=radical" alt="Top Languages" width="300"/>
+</div>
+
+
+<!-- ## Hi there 👋
 
 I'm **BeLH**, a passionate software developer with a background in Artificial Intelligence and Big Data Computing. Currently pursuing my Master’s degree at The Hong Kong Polytechnic University, I am dedicated to leveraging technology to create impactful solutions.
 
@@ -37,6 +72,7 @@ I have experience in a variety of programming languages and technologies, includ
   <img src="https://github-readme-stats.vercel.app/api?username=Cma-png&show_icons=true&theme=radical" alt="My GitHub Stats" width="320"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cma-png&layout=compact&theme=radical" alt="Top Languages" width="300"/>
 </div>
+-->
 
 <!--
 **Cma-png/Cma-png** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
