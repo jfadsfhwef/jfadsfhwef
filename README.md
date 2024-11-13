@@ -1,7 +1,5 @@
 Hi there 👋
 
-I’m BeLH, a dedicated software developer with a keen eye for building efficient, scalable systems. Currently pursuing my Master’s degree in Artificial Intelligence and Big Data Computing at The Hong Kong Polytechnic University, I specialize in creating high-quality software solutions that bring impactful change to users and industries.
-
 <div style="display: flex; align-items: flex-start;">
 
 
