@@ -25,11 +25,11 @@ With experience across various programming languages and tools, here’s a glimp
 
 GitHub Stats
 
+GitHub Stats
+
 <div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=be12ma-png
-&show_icons=true&theme=radical" alt="My GitHub Stats" width="320"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=be12ma-png
-&layout=compact&theme=radical" alt="Top Languages" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=be12ma-png&show_icons=true&theme=radical" alt="My GitHub Stats" width="320"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=be12ma-png&layout=compact&theme=radical" alt="Top Languages" width="300"/>
 </div>
 
 
