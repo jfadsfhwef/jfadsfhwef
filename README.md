@@ -8,9 +8,6 @@ Hi there 👋
 
 Technical Interests
 
-<img src="https://66.media.tumblr.com/aa7c508d8f466f5b41dc429b90fca6f3/tumblr_mv4vmc5srf1s8udf8o1_500.gif" alt="Animated GIF" width="300" align="right" style="margin-left: 20px;"/>
-
-
 	•	Fake Detection (Diffusion Model)
 	•	Backend Development
 	•	Backend Architecture
@@ -44,6 +41,8 @@ With experience across various programming languages and tools, here’s a glimp
 
 
 <!-- ## Hi there 👋
+<img src="https://66.media.tumblr.com/aa7c508d8f466f5b41dc429b90fca6f3/tumblr_mv4vmc5srf1s8udf8o1_500.gif" alt="Animated GIF" width="300" align="right" style="margin-left: 20px;"/>
+
 GitHub Stats
 
 
