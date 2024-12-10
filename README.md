@@ -2,7 +2,7 @@
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1; margin-right: 20px;">
-        🚀 Final-year MSc in AI and Big Data Computing @ PolyU | Software Developer (AI System) | Research Engineer (RAG LLMs) | Data Scientist, GenAI (Automation System) | Love coding / Building system (side project) at night
+    🚀 Final-year MSc in AI and Big Data Computing @ PolyU | Software Developer (AI System) | Research Engineer (RAG LLMs) | Data Scientist, GenAI (Automation System) | Love coding / Building system (side project) at night
     </div>
     <img src="https://github.com/user-attachments/assets/77c48a51-6134-4d4c-8e42-557bc7fd7f9f" width="350" align="right" alt="Coding Chiikawa"/>
 </div>
