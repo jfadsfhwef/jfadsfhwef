@@ -2,19 +2,22 @@
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1; margin-right: 20px;">
-    🚀 Final-year MSc in AI and Big Data Computing @ PolyU | Software Developer(AI System) | Research Engineer(RAG LLMs) | Data Scientist, GenAI (Automation System) | Love coding / Building system(side project) at night
+        🚀 Final-year MSc in AI and Big Data Computing @ PolyU | Software Developer (AI System) | Research Engineer (RAG LLMs) | Data Scientist, GenAI (Automation System) | Love coding / Building system (side project) at night
     </div>
     <img src="https://github.com/user-attachments/assets/77c48a51-6134-4d4c-8e42-557bc7fd7f9f" width="350" align="right" alt="Coding Chiikawa"/>
 </div>
 
+---
 
 🔬 __Research/Technical Interests:__
 
 - 🕵️ Fake Detection Crusader (Diffusion Model Edition)
 - 🤖 LLMs & Multimodal Model Whisperer
-- 🏗️ Backend Architect Extraordinaire (Recently Studing microservices)
+- 🏗️ Backend Architect Extraordinaire (Recently Studying Microservices)
 - ☁️ Cloud & Infrastructure Maverick (AWS, Docker)
 - 🌐 API Gateway Guru & Integration Specialist
+
+---
 
 🛠️ __My Tech Arsenal: Weapons of Mass Creation__
 
@@ -35,11 +38,12 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 </div>
 
+---
+
 📊 __GitHub Stats: The Coding Chronicles__
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cma-pio&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cma-pio&layout=compact&theme=radical)
-
 <!-- ## Hi there 👋
 <img src="https://66.media.tumblr.com/aa7c508d8f466f5b41dc429b90fca6f3/tumblr_mv4vmc5srf1s8udf8o1_500.gif" alt="Animated GIF" width="300" align="right" style="margin-left: 20px;"/>
 
