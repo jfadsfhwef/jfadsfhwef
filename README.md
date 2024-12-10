@@ -1,25 +1,21 @@
-Hi there 👋
+# Hi there, Tech Adventurer! 👋 
 
-<div style="display: flex; align-items: flex-start;">
-
-
-<div style="flex: 1; margin-right: 20px;">
-
-
-Technical Interests
-
-	•	Fake Detection (Diffusion Model)
-	•	Backend Development
-	•	Backend Architecture
-	•	Cloud & Infrastructure (AWS, Docker)
-	•	APIs & Integrations
-
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1; margin-right: 20px;">
+    🚀 MSc in AI and Big Data Computing @ PolyU | Software Sorcerer | AI System Ninja | Research Wizard of RAG LLMs | GenAI Automation Mastermind
+    </div>
+    <img src="https://github.com/user-attachments/assets/02a227aa-ea18-44c1-b3b5-0997bd0a314b" width="250" align="right" alt="Coding Chiikawa"/>
 </div>
 
+## 🔬 Research/Technical Interests: Where Magic Meets Code
 
-Languages and Technologies
+- 🕵️ Fake Detection Crusader (Diffusion Model Edition)
+- 🤖 LLMs & Multimodal Model Whisperer
+- 🏗️ Backend Architect Extraordinaire
+- ☁️ Cloud & Infrastructure Maverick (AWS, Docker)
+- 🌐 API Gateway Guru & Integration Specialist
 
-With experience across various programming languages and tools, here’s a glimpse into my tech stack:
+## 🛠️ My Tech Arsenal: Weapons of Mass Creation
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
   
@@ -36,9 +32,12 @@ With experience across various programming languages and tools, here’s a glimp
   ![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
-
 </div>
 
+## 📊 GitHub Stats: The Coding Chronicles
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
 
 <!-- ## Hi there 👋
 <img src="https://66.media.tumblr.com/aa7c508d8f466f5b41dc429b90fca6f3/tumblr_mv4vmc5srf1s8udf8o1_500.gif" alt="Animated GIF" width="300" align="right" style="margin-left: 20px;"/>
