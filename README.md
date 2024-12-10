@@ -11,11 +11,11 @@
 
 🔬 __Research/Technical Interests:__
 
-- 🕵️ Fake Detection Crusader (Diffusion Model Edition)
-- 🤖 LLMs & Multimodal Model Whisperer
-- 🏗️ Backend Architect Extraordinaire (Recently Studying Microservices)
+- 🕵️ Image & Video Fake Detection (Diffusion Model)
+- 🤖 LLMs & Multimodal Model Applications
+- 🏗️ Backend Architect (Recently Studying Microservices)
 - ☁️ Cloud & Infrastructure Maverick (AWS, Docker)
-- 🌐 API Gateway Guru & Integration Specialist
+- 🌐 API Gateway & Integration
 
 ---
 
