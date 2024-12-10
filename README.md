@@ -1,17 +1,17 @@
-# Hi there, Tech Adventurer! 👋 
+# Hi there, Adventurer! 👋 
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1; margin-right: 20px;">
-    🚀 MSc in AI and Big Data Computing @ PolyU | Software Sorcerer | AI System Ninja | Research Wizard of RAG LLMs | GenAI Automation Mastermind
+    🚀 MSc in AI and Big Data Computing @ PolyU | Software Developer(AI System) | Research Engineer(RAG LLMs) | Data Scientist, GenAI (Automation System) | Love coding / Building system(side project) at night
     </div>
-    <img src="https://github.com/user-attachments/assets/02a227aa-ea18-44c1-b3b5-0997bd0a314b" width="250" align="right" alt="Coding Chiikawa"/>
+    <img src="https://github.com/user-attachments/assets/02a227aa-ea18-44c1-b3b5-0997bd0a314b" width="200" align="right" alt="Coding Chiikawa"/>
 </div>
 
 ## 🔬 Research/Technical Interests: Where Magic Meets Code
 
 - 🕵️ Fake Detection Crusader (Diffusion Model Edition)
 - 🤖 LLMs & Multimodal Model Whisperer
-- 🏗️ Backend Architect Extraordinaire
+- 🏗️ Backend Architect Extraordinaire (Recently Studing microservices)
 - ☁️ Cloud & Infrastructure Maverick (AWS, Docker)
 - 🌐 API Gateway Guru & Integration Specialist
 
