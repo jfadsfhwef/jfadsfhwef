@@ -2,12 +2,13 @@
 
 <div style="display: flex; align-items: center;">
     <div style="flex: 1; margin-right: 20px;">
-    🚀 MSc in AI and Big Data Computing @ PolyU | Software Developer(AI System) | Research Engineer(RAG LLMs) | Data Scientist, GenAI (Automation System) | Love coding / Building system(side project) at night
+    🚀 Final-year MSc in AI and Big Data Computing @ PolyU | Software Developer(AI System) | Research Engineer(RAG LLMs) | Data Scientist, GenAI (Automation System) | Love coding / Building system(side project) at night
     </div>
-    <img src="https://github.com/user-attachments/assets/02a227aa-ea18-44c1-b3b5-0997bd0a314b" width="200" align="right" alt="Coding Chiikawa"/>
+    <img src="https://github.com/user-attachments/assets/77c48a51-6134-4d4c-8e42-557bc7fd7f9f" width="350" align="right" alt="Coding Chiikawa"/>
 </div>
 
-## 🔬 Research/Technical Interests: Where Magic Meets Code
+
+🔬 __Research/Technical Interests:__
 
 - 🕵️ Fake Detection Crusader (Diffusion Model Edition)
 - 🤖 LLMs & Multimodal Model Whisperer
@@ -15,7 +16,7 @@
 - ☁️ Cloud & Infrastructure Maverick (AWS, Docker)
 - 🌐 API Gateway Guru & Integration Specialist
 
-## 🛠️ My Tech Arsenal: Weapons of Mass Creation
+🛠️ __My Tech Arsenal: Weapons of Mass Creation__
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap;">
   
@@ -34,7 +35,7 @@
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 </div>
 
-## 📊 GitHub Stats: The Coding Chronicles
+📊 __GitHub Stats: The Coding Chronicles__
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cma-pio&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cma-pio&layout=compact&theme=radical)
