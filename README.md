@@ -1,14 +1,4 @@
 
-# Hi there, Adventurer! 👋 
-
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1; margin-right: 20px;">
-    🚀 Final-year MSc in AI and Big Data Computing @ PolyU | Software Developer (AI System) | Research Engineer (RAG LLMs) | Data Scientist, GenAI (Automation System) | Love coding / Building system (side project) / Researching at night
-    </div>
-</div>
-  
----
-
 🔬 __Research/Technical Interests:__
 
 <img src="https://i.pinimg.com/originals/f9/3b/0e/f93b0eb81efd2e2d34b922f01827ea94.gif" alt="Animated GIF" width="300" align="right" style="margin-left: 20px;">
@@ -46,6 +36,15 @@
 
 
 <!-- ## Hi there 👋
+
+# Hi there, Adventurer! 👋 
+
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1; margin-right: 20px;">
+    🚀 Final-year MSc in AI and Big Data Computing @ PolyU | Software Developer (AI System) | Research Engineer (RAG LLMs) | Data Scientist, GenAI (Automation System) | Love coding / Building system (side project) / Researching at night
+    </div>
+</div>
+
 <img src="https://66.media.tumblr.com/aa7c508d8f466f5b41dc429b90fca6f3/tumblr_mv4vmc5srf1s8udf8o1_500.gif" alt="Animated GIF" width="300" align="right" style="margin-left: 20px;"/>
 
 GitHub Stats
