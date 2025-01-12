@@ -1,3 +1,6 @@
+# Hi!
+
+Master Student in AI & Big Data Computing @ PolyU
 
 🔬 __Research/Technical Interests:__
 
