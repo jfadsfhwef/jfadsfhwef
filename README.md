@@ -1,9 +1,9 @@
 
 # Hi!
 
-Master Student in AI & Big Data Computing @ PolyU
+Backend Developer | Part-Time Master Student in AI & Big Data Computing @ PolyU
 
-🔬 __Research/Technical Interests:__
+🔬 __Technical Interests:__
 
 <img src="https://i.pinimg.com/originals/f9/3b/0e/f93b0eb81efd2e2d34b922f01827ea94.gif" alt="Animated GIF" width="300" align="right" style="margin-left: 20px;">
 
