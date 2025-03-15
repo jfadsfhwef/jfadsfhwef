@@ -5,7 +5,7 @@ Backend Developer | Part-Time Master Student in AI & Big Data Computing @ PolyU
 
 🔬 __Technical Interests:__
 
-<img src="https://i.pinimg.com/originals/f9/3b/0e/f93b0eb81efd2e2d34b922f01827ea94.gif" alt="Animated GIF" width="300" align="right" style="margin-left: 20px;">
+<img src="https://i.pinimg.com/originals/a2/21/1d/a2211d099abb5976b3826307f3f4615f.gif" alt="Animated GIF" width="300" align="right" style="margin-left: 20px;">
 
 - 🕵️ Image & Video Fake Detection (Diffusion Model)
 - 🤖 LLMs & Multimodal Model Applications
