@@ -1,7 +1,12 @@
 
 # Hi!
 
-Backend Developer | Part-Time Master Student in AI & Big Data Computing @ PolyU
+__Backend Developer | Part-Time Master Student in AI & Big Data Computing @ PolyU__
+
+<div style="display: flex; justify-content: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=crha-hFiecif&show_icons=true&theme=radical" alt="My GitHub Stats" width="320"/>
+</div>
+
 
 🔬 __Technical Interests:__
 
@@ -33,11 +38,6 @@ Backend Developer | Part-Time Master Student in AI & Big Data Computing @ PolyU
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
 </div>
-
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=crha-hFiecif&layout=compact&theme=radical)
-
-
 
 <!--
 
