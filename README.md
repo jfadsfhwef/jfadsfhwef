@@ -1,7 +1,7 @@
 
 # Hi!
 
-__Backend Developer | Part-Time Master Student in AI & Big Data Computing @ PolyU__
+__Software Developer(full stack, AI) | Part-Time Master Student in AI & Big Data Computing @ PolyU__
 
 <div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=crha-hFiecif&show_icons=true&theme=radical" alt="My GitHub Stats" width="320"/>
