@@ -1,7 +1,15 @@
 
-# Hi!
+# hi! adventurer! I'm BeC
 
-__AI Engineer(Infrastructure , AI) |  Master of Science in AI & Big Data Computing @ PolyU__
+__ai engineer(infrastructure , ai) |  master of science in ai & big data computing @ PolyU__
+> _“Your journey is shaped by your starting point, your efforts, and the challenges you face.”_
+
+<img src="https://latex.codecogs.com/svg.image?\bg{blue}&space;x_final=x0&plus;\beta&space;t-H" alt="x_final = x0 + βt − H" height="40"/>
+
+```
+where: x_final = where you end up; x0 = where you start in life; βt = the progress you make over time (effort, growth, learning); H = what you overcome (loss, cost, or barrier)
+```
+
 
 <div style="display: flex; justify-content: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=jfadsfhwef&show_icons=true&theme=radical" alt="My GitHub Stats" width="320"/>
