@@ -2,7 +2,7 @@
 # hi! adventurer! I'm BeC
 
 __ai engineer(infrastructure , ai) |  master of science in ai & big data computing @ PolyU__
-> _“Your journey is shaped by your starting point, your efforts, and the challenges you face.”_
+> _“Your final outcome in life is determined by where you start, how much you grow or progress, and what obstacles you overcome or subtract along the way.”_
 
 <div align="center">
   <img src="https://latex.codecogs.com/svg.image?\bg_orange&space;x_\text{final}=x_0&plus;\beta&space;t-H" alt="x_final = x0 + βt − H" height="40"/>
