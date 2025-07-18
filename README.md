@@ -4,7 +4,9 @@
 __ai engineer(infrastructure , ai) |  master of science in ai & big data computing @ PolyU__
 > _“Your journey is shaped by your starting point, your efforts, and the challenges you face.”_
 
-<img src="https://latex.codecogs.com/svg.image?\bg{blue}&space;x_final=x0&plus;\beta&space;t-H" alt="x_final = x0 + βt − H" height="40"/>
+<div align="center">
+  <img src="https://latex.codecogs.com/svg.image?x_final=x0&plus;\beta&space;t-H" alt="x_final = x0 + βt − H" height="40"/>
+</div>
 
 ```
 where: x_final = where you end up; x0 = where you start in life; βt = the progress you make over time (effort, growth, learning); H = what you overcome (loss, cost, or barrier)
