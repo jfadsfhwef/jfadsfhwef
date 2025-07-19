@@ -1,8 +1,7 @@
 # Hi there, adventurer! I'm BeC 👋
 
----
 
-### AI Engineer (Infrastructure & AI) | Master of Science in AI & Big Data Computing @ PolyU
+### AI Engineer (Infrastructure & AI) @ Bowtie | Master of Science in AI & Big Data Computing @ PolyU
 
 > _"Your final outcome in life is determined by where you start, how much you grow or progress, and what obstacles you overcome or subtract along the way."_
 
@@ -27,15 +26,30 @@ Where:
 
 ---
 
+### 🎧 My Current Vibe
+
+🎶 Listen to what I'm currently jamming to on Spotify!
+
+<div style="text-align: center;">
+  <a href="https://open.spotify.com/track/3fe9NOCWy7ibnwcGShh5K5?si=207341f0574b4cb9">
+    <img src="https://github.com/user-attachments/assets/dcdcbdeb-72bd-40e1-a25c-0cd9a21fb1f1" alt="Spotify Image" width="300">
+  </a>
+</div>
+
+---
 ### 🔬 Technical Interests
 
-<img src="https://i.pinimg.com/originals/a2/21/1d/a2211d099abb5976b3826307f3f4615f.gif" alt="Animated GIF" width="300" align="right" style="margin-left: 20px;">
+<img src="https://i.pinimg.com/originals/a2/21/1d/a2211d099abb5976b3826307f3f4615f.gif" alt="Animated GIF" width="500" align="right" style="margin-left: 20px;">
 
 * 🕵️ **Image & Video Fake Detection** (focused on Diffusion Models)
 * 🤖 **LLMs & Multimodal Model Applications**
 * 🏗️ **Backend Architecture** (currently diving deep into Microservices)
 * ☁️ **Cloud & Infrastructure Maverick** (AWS, Docker)
 * 🌐 **API Gateway & Integration**
+
+
+
+<!--
 
 ---
 
@@ -56,8 +70,6 @@ Where:
   <img src="https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=for-the-badge" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" alt="MongoDB"/>
 </div>
-
-<!--
 
 # Hi there, Adventurer! 👋 
 
