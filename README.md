@@ -1,6 +1,6 @@
 # Hi there, adventurer! I'm BeC 👋
 
-
+#### Love coding and reading paper 💻📚🤓🧠🔍
 ### AI Engineer (Infrastructure & AI) @ Bowtie | Master of Science in AI & Big Data Computing @ PolyU
 
 > _"Your Starting Point Matters, But It's Not Everything. Consistent Effort and Growth Lead to Progress. There Will Always Be Costs, Obstacles, or Setbacks. The Final Outcome is a Combination of Factors."_
@@ -17,7 +17,8 @@ Where:
   - βt = the progress you make over time  (consistent effort, learning, and growth over time)
   - H = what you overcome (costs, obstacles, and setbacks)
 
-> _"To achieve a desirable x_final, you need to: Leverage your x0(initial advantages/resources)"_
+To achieve a desirable x_final, you need to: 
+> _"Leverage your x0(initial advantages/resources)"_
 
 > _"Maximize your βt (consistent effort, learning, and growth over time)"_
 
@@ -35,16 +36,18 @@ Where:
 ### 🎧 My Current Vibe
 
 🎶 Listen to what I'm currently jamming to on Spotify in July!
-
 <div style="text-align: center;">
   <a href="https://open.spotify.com/track/3fe9NOCWy7ibnwcGShh5K5?si=207341f0574b4cb9">
-    <img src="https://github.com/user-attachments/assets/dcdcbdeb-72bd-40e1-a25c-0cd9a21fb1f1" alt="Spotify Song 1" width="300">
+    <img src="https://github.com/user-attachments/assets/762a2e65-c7d8-4a95-8adc-c982a3e204d8" alt="Spotify Song 1" width="300">
   </a>
   <a href="https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ?si=aa33ab0d8569421a">
     <img src="https://github.com/user-attachments/assets/3644de3a-56f2-4dbe-9871-5d4400541b26" alt="Spotify Song 2" width="300">
   </a>
   <a href="https://open.spotify.com/track/1q70WDsbAwdtqCQs94pPqS?si=ee169dc277f94c75">
     <img src="https://github.com/user-attachments/assets/cb02baab-4c65-4bd7-8125-a402c5ac8ec4"  alt="Spotify Song 3" width="300">
+  </a>
+  <a href="https://open.spotify.com/track/4k3oXEcNqvI36XLqQqVUxl?si=8656ce60199c4e93">
+    <img src="https://github.com/user-attachments/assets/47011d5f-7161-4bb8-b158-590d08c4229c"  alt="Spotify Song 4" width="300">
   </a>
 </div>
 
