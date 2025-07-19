@@ -3,7 +3,7 @@
 
 ### AI Engineer (Infrastructure & AI) @ Bowtie | Master of Science in AI & Big Data Computing @ PolyU
 
-> _"Your final outcome in life is determined by where you start, how much you grow or progress, and what obstacles you overcome or subtract along the way."_
+> _"Your Starting Point Matters, But It's Not Everything. Consistent Effort and Growth Lead to Progress. There Will Always Be Costs, Obstacles, or Setbacks. The Final Outcome is a Combination of Factors."_
 
 <div align="center">
   <img src="https://latex.codecogs.com/svg.image?\bg_orange&space;x_\text{final}=x_0&plus;\beta&space;t-H" alt="x_final = x0 + βt − H" height="40"/>
