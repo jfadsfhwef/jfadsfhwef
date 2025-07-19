@@ -39,7 +39,7 @@ Where:
 ---
 ### 🔬 Technical Interests
 
-<img src="https://i.pinimg.com/originals/a2/21/1d/a2211d099abb5976b3826307f3f4615f.gif" alt="Animated GIF" width="500" align="right" style="margin-left: 20px;">
+<img src="https://i.pinimg.com/originals/a2/21/1d/a2211d099abb5976b3826307f3f4615f.gif" alt="Animated GIF" width="300" align="right" style="margin-left: 20px;">
 
 * 🕵️ **Image & Video Fake Detection** (focused on Diffusion Models)
 * 🤖 **LLMs & Multimodal Model Applications**
