@@ -13,9 +13,15 @@
 Where:
 
   - x\_final = where you end up
-  - x0 = where you start in life
-  - βt = the progress you make over time (effort, growth, learning)
-  - H = what you overcome (loss, cost, or barrier)
+  - x0 = where you start in life(initial advantages/resources)
+  - βt = the progress you make over time  (consistent effort, learning, and growth over time)
+  - H = what you overcome (costs, obstacles, and setbacks)
+
+> _"To achieve a desirable x_final, you need to: Leverage your x0(initial advantages/resources)"_
+
+> _"Maximize your βt (consistent effort, learning, and growth over time)"_
+
+> _"Minimize or strategically manage your H (costs, obstacles, and setbacks)"_
 
 <!-- end list -->
 
