@@ -1,4 +1,4 @@
-# Hi there, adventurer! I'm BeC 👋
+# Hi there, adventurer! I'm BeC 👋 ✨”੭ᐕ)੭*⁾⁾
 
 #### Love coding, listening to ai Khalil Fong and reading paper 💻📚🤓🧠🔍 (ISTJ-A)
 ### AI Engineer (Infrastructure & AI) @ Bowtie | Master of Science in AI & Big Data Computing @ PolyU
