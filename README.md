@@ -25,12 +25,6 @@ To achieve a desirable x_final, you need to:
 > _"Minimize or strategically manage your H (costs, obstacles, and setbacks)"_
 
 <!-- end list -->
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jfadsfhwef&show_icons=true&theme=radical" alt="My GitHub Stats" width="320"/>
-</div>
-
 ---
 
 ### 🎧 My Current Vibe
