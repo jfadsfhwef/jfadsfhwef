@@ -33,16 +33,16 @@ To achieve a desirable x_final, you need to:
 🎶 Listen to what I'm currently jamming to on Spotify in July!
 <div style="text-align: center;">
   <a href="https://open.spotify.com/track/3fe9NOCWy7ibnwcGShh5K5?si=207341f0574b4cb9">
-    <img src="https://github.com/user-attachments/assets/762a2e65-c7d8-4a95-8adc-c982a3e204d8" alt="Spotify Song 1" width="300">
+    <img src="https://github.com/user-attachments/assets/762a2e65-c7d8-4a95-8adc-c982a3e204d8" alt="Spotify Song 1" width="200">
   </a>
   <a href="https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ?si=aa33ab0d8569421a">
-    <img src="https://github.com/user-attachments/assets/3644de3a-56f2-4dbe-9871-5d4400541b26" alt="Spotify Song 2" width="300">
+    <img src="https://github.com/user-attachments/assets/3644de3a-56f2-4dbe-9871-5d4400541b26" alt="Spotify Song 2" width="200">
   </a>
   <a href="https://open.spotify.com/track/1q70WDsbAwdtqCQs94pPqS?si=ee169dc277f94c75">
-    <img src="https://github.com/user-attachments/assets/cb02baab-4c65-4bd7-8125-a402c5ac8ec4"  alt="Spotify Song 3" width="300">
+    <img src="https://github.com/user-attachments/assets/cb02baab-4c65-4bd7-8125-a402c5ac8ec4"  alt="Spotify Song 3" width="200">
   </a>
   <a href="https://open.spotify.com/track/4k3oXEcNqvI36XLqQqVUxl?si=8656ce60199c4e93">
-    <img src="https://github.com/user-attachments/assets/47011d5f-7161-4bb8-b158-590d08c4229c"  alt="Spotify Song 4" width="300">
+    <img src="https://github.com/user-attachments/assets/47011d5f-7161-4bb8-b158-590d08c4229c"  alt="Spotify Song 4" width="200">
   </a>
 </div>
 
