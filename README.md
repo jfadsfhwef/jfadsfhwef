@@ -25,7 +25,7 @@ To achieve a desirable x_final, you need to:
 
 > _"Minimize or strategically manage your H (costs, obstacles, and setbacks)"_
 
-<!-- end list -->
+
 ---
 
 ### 🎧 My Current Vibe
