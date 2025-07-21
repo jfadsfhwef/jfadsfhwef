@@ -1,4 +1,4 @@
-<!--
+
 # Hi there, adventurer! I'm BeC 👋 ✨”੭ᐕ)੭*⁾⁾
 
 #### Love coding, listening to ai Khalil Fong and reading paper 💻📚🤓🧠🔍 (ISTJ-A)
@@ -60,7 +60,7 @@ To achieve a desirable x_final, you need to:
 
 
 
-
+<!--
 ---
 
 ### 🛠️ My Tech Arsenal: Weapons of Mass Creation
