@@ -1,7 +1,7 @@
 
 # Hi there, adventurer! I'm BeC 👋 ✨”੭ᐕ)੭*⁾⁾
 
-#### Love coding, listening to ai Khalil Fong and reading paper 💻📚🤓🧠🔍 (ISTJ-A / INFJ-A)
+#### Love coding, listening to ai Khalil Fong and reading paper 💻📚🤓🧠🔍 (ISTJ-A)
 ### AI Engineer (Infrastructure & AI) @ Bowtie | Master of Science in AI & Big Data Computing @ PolyU
 
 > _"Your Starting Point Matters, But It's Not Everything. Consistent Effort and Growth Lead to Progress. There Will Always Be Costs, Obstacles, or Setbacks. The Final Outcome is a Combination of Factors."_
