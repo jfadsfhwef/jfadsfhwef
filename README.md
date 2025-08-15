@@ -1,11 +1,66 @@
 
 # Hi there, adventurer! I'm BeC 👋 ✨”੭ᐕ)੭*⁾⁾
 
-#### Love coding, listening to ai Khalil Fong and reading paper 💻📚🤓🧠🔍 (ENFJ-A)
-### AI Engineer (Infrastructure & AI) @ Bowtie | Master of Science in AI & Big Data Computing @ PolyU
+#### 💻 AI Engineer (Infrastructure & AI) @ Bowtie  | 🎓 MSc in AI & Big Data Computing @ PolyU | 🧠 Future PhD Candidate (2029) | ENFJ-A
+Passionate about coding, listening to chill songs, and reading research papers 📚🤓🔍
+
+
+> _"Your Starting Point Matters, But It's Not Everything. Consistent Effort and Growth Lead to Progress. There Will Always Be Costs, Obstacles, or Setbacks. The Final Outcome is a Combination of Factors."_
+
+<div align="center">
+  <img src="https://latex.codecogs.com/svg.image?\bg_orange&space;x_\text{final}=x_0&plus;\beta&space;t-H" alt="x_final = x0 + βt − H" height="40"/>
+</div>
+
+
+Where:
+
+  - x\_final = where you end up
+  - x0 = where you start in life(initial advantages/resources)
+  - βt = the progress you make over time  (consistent effort, learning, and growth over time)
+  - H = what you overcome (costs, obstacles, and setbacks)
+
+To achieve a desirable x_final, you need to: 
+> _"Leverage your x0(initial advantages/resources)"_
+
+> _"Maximize your βt (consistent effort, learning, and growth over time)"_
+
+> _"Minimize or strategically manage your H (costs, obstacles, and setbacks)"_
+
+<!--
+---
+
+### 🎧 My Current Vibe
+
+🎶 Listen to what I'm currently jamming to on Spotify in July!
+<div style="text-align: center;">
+  <a href="https://open.spotify.com/track/3fe9NOCWy7ibnwcGShh5K5?si=207341f0574b4cb9">
+    <img src="https://github.com/user-attachments/assets/762a2e65-c7d8-4a95-8adc-c982a3e204d8" alt="Spotify Song 1" width="200">
+  </a>
+  <a href="https://open.spotify.com/track/6ewcR0FnLdKjIt9gcMghrQ?si=aa33ab0d8569421a">
+    <img src="https://github.com/user-attachments/assets/3644de3a-56f2-4dbe-9871-5d4400541b26" alt="Spotify Song 2" width="200">
+  </a>
+  <a href="https://open.spotify.com/track/1q70WDsbAwdtqCQs94pPqS?si=ee169dc277f94c75">
+    <img src="https://github.com/user-attachments/assets/cb02baab-4c65-4bd7-8125-a402c5ac8ec4"  alt="Spotify Song 3" width="200">
+  </a>
+  <a href="https://open.spotify.com/track/4k3oXEcNqvI36XLqQqVUxl?si=8656ce60199c4e93">
+    <img src="https://github.com/user-attachments/assets/47011d5f-7161-4bb8-b158-590d08c4229c"  alt="Spotify Song 4" width="200">
+  </a>
+</div>
 
 ---
-# Life is an adventure | Planning to pursue my PhD in 2029
+### 🔬 Technical Interests
+
+<img src="https://i.pinimg.com/originals/a2/21/1d/a2211d099abb5976b3826307f3f4615f.gif" alt="Animated GIF" width="300" align="right" style="margin-left: 20px;">
+
+* 🕵️ **Image & Video Fake Detection** (focused on Diffusion Models)
+* 🤖 **LLMs & Multimodal Model Applications**
+* 🏗️ **Backend Architecture** (currently diving deep into Microservices)
+* ☁️ **Cloud & Infrastructure Maverick** (AWS, Docker)
+* 🌐 **API Gateway & Integration**
+
+
+
+
 
 > _"Your Starting Point Matters, But It's Not Everything. Consistent Effort and Growth Lead to Progress. There Will Always Be Costs, Obstacles, or Setbacks. The Final Outcome is a Combination of Factors."_
 
