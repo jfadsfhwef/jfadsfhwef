@@ -4,7 +4,7 @@
 #### 💻 AI Engineer (Infrastructure & AI) @ Bowtie  | 🎓 MSc in AI & Big Data Computing @ PolyU | 🧠 pursue PhD (2029/30) | ENFJ-A
 Passionate about coding, listening to chill songs, and reading research papers 📚🤓🔍
 
-> _"Life's short. Break the rules. Forgive quickly, kiss slowly. Love truly. Laugh uncontrollably and never regret anything that make you smile."_
+> _"Everyday's too short to let it go to waste."_
 
 
 <!--
