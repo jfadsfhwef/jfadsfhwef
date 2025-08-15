@@ -4,7 +4,10 @@
 #### 💻 AI Engineer (Infrastructure & AI) @ Bowtie  | 🎓 MSc in AI & Big Data Computing @ PolyU | 🧠 pursue PhD (2029/30) | ENFJ-A
 Passionate about coding, listening to chill songs, and reading research papers 📚🤓🔍
 
+> _"everyday's too short to let it go to waste."_
 
+
+<!--
 > _"Your Starting Point Matters, But It's Not Everything. Consistent Effort and Growth Lead to Progress. There Will Always Be Costs, Obstacles, or Setbacks. The Final Outcome is a Combination of Factors."_
 
 <div align="center">
@@ -26,7 +29,7 @@ To achieve a desirable x_final, you need to:
 
 > _"Minimize or strategically manage your H (costs, obstacles, and setbacks)"_
 
-<!--
+
 ---
 
 ### 🎧 My Current Vibe
