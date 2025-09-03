@@ -1,15 +1,10 @@
 
-<!--
 # Hi there, adventurer! I'm BeC 👋 ✨”੭ᐕ)੭*⁾⁾
 
 #### 💻 AI Engineer (Infrastructure & AI) @ Bowtie  | 🎓 MSc in AI & Big Data Computing @ PolyU | 🧠 pursue PhD (2029/30) | ENFJ-A
-Passionate about coding, listening to chill songs, and reading research papers 📚🤓🔍
+Love coding and reading research papers, while listening to Jay Chou or Jazz📚🤓🔍
 
-> _"Everyday's too short to let it go to waste."_
-
-
-
-> _"Your Starting Point Matters, But It's Not Everything. Consistent Effort and Growth Lead to Progress. There Will Always Be Costs, Obstacles, or Setbacks. The Final Outcome is a Combination of Factors."_
+Currently joing 2 competitions: EEG(Biosignal) & ESDD(DeepFake Detection-audio)
 
 <div align="center">
   <img src="https://latex.codecogs.com/svg.image?\bg_orange&space;x_\text{final}=x_0&plus;\beta&space;t-H" alt="x_final = x0 + βt − H" height="40"/>
@@ -35,7 +30,7 @@ To achieve a desirable x_final, you need to:
 
 ### 🎧 My Current Vibe
 
-🎶 Listen to what I'm currently jamming to on Spotify in July!
+🎶 Listen to what I'm currently jamming to on Spotify!
 <div style="text-align: center;">
   <a href="https://open.spotify.com/track/3fe9NOCWy7ibnwcGShh5K5?si=207341f0574b4cb9">
     <img src="https://github.com/user-attachments/assets/762a2e65-c7d8-4a95-8adc-c982a3e204d8" alt="Spotify Song 1" width="200">
@@ -65,7 +60,7 @@ To achieve a desirable x_final, you need to:
 
 
 
-
+<!--
 > _"Your Starting Point Matters, But It's Not Everything. Consistent Effort and Growth Lead to Progress. There Will Always Be Costs, Obstacles, or Setbacks. The Final Outcome is a Combination of Factors."_
 
 <div align="center">
@@ -87,8 +82,14 @@ To achieve a desirable x_final, you need to:
 
 > _"Minimize or strategically manage your H (costs, obstacles, and setbacks)"_
 
-<!--
+
 ---
+
+> _"Everyday's too short to let it go to waste."_
+
+
+
+> _"Your Starting Point Matters, But It's Not Everything. Consistent Effort and Growth Lead to Progress. There Will Always Be Costs, Obstacles, or Setbacks. The Final Outcome is a Combination of Factors."_
 
 ### 🎧 My Current Vibe
 
