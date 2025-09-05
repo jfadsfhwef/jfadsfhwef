@@ -4,7 +4,7 @@
 #### 💻 AI Engineer (Infrastructure & AI) @ Bowtie  | 🎓 MSc in AI & Big Data Computing @ PolyU | 🧠 pursue PhD (2029/30) | ENFJ-A
 Love coding and reading research papers, while listening to Jay Chou or Jazz📚🤓🔍
 
-Currently joing 2 competitions: EEG(Biosignal) & ESDD(DeepFake Detection-audio) - start coding now
+Currently joing 2 competitions: EEG(Biosignal) & ESDD(DeepFake Detection-audio) - __start coding now__
 
 <div align="center">
   <img src="https://latex.codecogs.com/svg.image?\bg_orange&space;x_\text{final}=x_0&plus;\beta&space;t-H" alt="x_final = x0 + βt − H" height="40"/>
