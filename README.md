@@ -4,12 +4,13 @@
 #### 💻 AI Engineer (Infrastructure & AI) @ Bowtie  | 🎓 MSc in AI & Big Data Computing @ PolyU | 🧠 pursue PhD (2029/30) | ENFJ-A
 Love coding and reading research papers, while listening to Jay Chou or Jazz📚🤓🔍
 
-Currently joing 2 competitions: EEG(Biosignal) & ESDD(DeepFake Detection-audio) - __start coding now__
+Currently joing 2 competitions: EEG(Biosignal) & ESDD(DeepFake Detection-audio) - __start coding/training models now__
 
 <div align="center">
   <img src="https://latex.codecogs.com/svg.image?\bg_orange&space;x_\text{final}=x_0&plus;\beta&space;t-H" alt="x_final = x0 + βt − H" height="40"/>
 </div>
 
+<img src="https://i.pinimg.com/originals/a2/21/1d/a2211d099abb5976b3826307f3f4615f.gif" alt="Animated GIF" width="300" align="right" style="margin-left: 20px;">
 
 Where:
 
@@ -26,7 +27,9 @@ To achieve a desirable x_final, you need to:
 > _"Minimize or strategically manage your H (costs, obstacles, and setbacks)"_
 
 
----
+
+
+<!--
 
 ### 🎧 My Current Vibe
 
@@ -46,10 +49,6 @@ To achieve a desirable x_final, you need to:
   </a>
 </div>
 
----
-### 🔬 Technical Interests
-
-<img src="https://i.pinimg.com/originals/a2/21/1d/a2211d099abb5976b3826307f3f4615f.gif" alt="Animated GIF" width="300" align="right" style="margin-left: 20px;">
 
 * 🕵️ **Image & Video Fake Detection** (focused on Diffusion Models)
 * 🤖 **LLMs & Multimodal Model Applications**
@@ -58,9 +57,6 @@ To achieve a desirable x_final, you need to:
 * 🌐 **API Gateway & Integration**
 
 
-
-
-<!--
 > _"Your Starting Point Matters, But It's Not Everything. Consistent Effort and Growth Lead to Progress. There Will Always Be Costs, Obstacles, or Setbacks. The Final Outcome is a Combination of Factors."_
 
 <div align="center">
