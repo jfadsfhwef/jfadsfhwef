@@ -1,7 +1,7 @@
 
 # Hi there, adventurer! I'm BeC 👋 ✨”੭ᐕ)੭*⁾⁾
 
-#### 💻 AI Engineer (Infrastructure & AI) @ Bowtie  | 🎓 MSc in AI & Big Data Computing @ PolyU | ENFJ-A
+#### 💻 AI Engineer | 🎓 MSc in AI & Big Data Computing @ PolyU | ENFJ-A
 Love coding and reading research papers, while listening to Jay Chou or Jazz📚🤓🔍
 
 Currently joing 2 competitions: EEG(Biosignal) & ESDD(DeepFake Detection-audio) - __start coding/training models now__
