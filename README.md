@@ -1,8 +1,8 @@
 
 # Hi there, adventurer! I'm BeC 👋 ✨”੭ᐕ)੭*⁾⁾
 
-#### 💻 AI Engineer @ Bowtie Life Insurance | 🎓 MSc in AI & Big Data Computing @ PolyU | Publication on IEEE IJCB 25'(1st Author)
-Love reading research papers and Building a safety-scaling AI system, while Listening to taylor swift's the fate of ophelia 📚🔍
+#### 💻 AI Engineer @ Bowtie Life Insurance | 🎓 MSc in AI & Big Data Computing @ PolyU | 📚 Publication on IEEE IJCB 25'(1st Author)
+Love reading research papers and Building a safety-scaling AI system, while Listening to taylor swift's the fate of ophelia 🔍
 
 status: currently joing 3 ieee competitions - running base models out/preprocessing data/brainstorming methodology
 
