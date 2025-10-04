@@ -1,10 +1,10 @@
 
 # Hi there, adventurer! I'm BeC 👋 ✨”੭ᐕ)੭*⁾⁾
 
-#### 💻 AI Engineer | 🎓 MSc in AI & Big Data Computing @ PolyU | ENFJ-A
-Love coding and reading research papers, while listening to Jay Chou or Jazz📚🤓🔍
+#### 💻 AI Engineer @ Bowtie Life Insurance | 🎓 MSc in AI & Big Data Computing @ PolyU | Publication IEEE IJCB 25'(1st Author)
+Love reading research papers and Building a safety-scaling AI system, while Listening to taylor swift's the fate of ophelia 📚🔍
 
-Currently joing 2 competitions: EEG(Biosignal) & ESDD(DeepFake Detection-audio) - __start coding/training models now__
+status: currently joing 3 ieee competitions - running base models out/preprocessing data/brainstorming methodology
 
 <div align="center">
   <img src="https://latex.codecogs.com/svg.image?\bg_orange&space;x_\text{final}=x_0&plus;\beta&space;t-H" alt="x_final = x0 + βt − H" height="40"/>
