@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi Researcher! 
+
+I am BeChal, working as AI Researcher at School now. My Research Interest is Computer Vision, DeepFake Detection, Embeddings, Recommendation System.
+
+<img src="https://cdn.dribbble.com/userupload/22255860/file/original-eab1f1b0b4a5783b81ce905bcf10e236.gif" width="600"/>
+
 
 <!--
 **jfadsfhwef/jfadsfhwef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
