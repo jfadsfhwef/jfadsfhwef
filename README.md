@@ -2,6 +2,8 @@
 
 I am BeChal, working as AI Researcher at School now. My Research Interest is Computer Vision, DeepFake Detection, Embeddings, Recommendation System.
 
+And hey Researchers, keep it up to the road of submitting to the top conference!
+
 <img src="https://cdn.dribbble.com/userupload/22255860/file/original-eab1f1b0b4a5783b81ce905bcf10e236.gif" width="600"/>
 
 
