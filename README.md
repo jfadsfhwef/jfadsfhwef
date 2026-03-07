@@ -7,8 +7,8 @@ Beyond the research lab, I'm also a **Software Engineer(SWE)** at heart. I love 
 ---
 
 ### 🔬 What I'm into:
-* **Core Research:** Recommendation System algorithms & Embedding representations.
-* **Secondary Interests:** Computer Vision and DeepFake detection.
+* **Core Research:** Computer Vision and DeepFake detection.
+* **Secondary Interests:** Recommendation System algorithms & Embedding representations.
 * **Engineering:** SaaS-level backend development & ML/DS optimization.
 
 ### 📍 Recent Stops:
